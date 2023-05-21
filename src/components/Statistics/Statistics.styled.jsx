@@ -1,7 +1,7 @@
 import styled from '@emotion/styled';
 
 export const StatisticsSection = styled.section`
-  margin: 30px auto;
+  margin-top: 30px;
   padding: 18px;
   background: rgb(34 88 239 / 65%);
   box-shadow: 0px 5px 40px rgb(244 245 26 / 99%);

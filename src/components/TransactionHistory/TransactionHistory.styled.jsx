@@ -6,7 +6,7 @@ export const TransactionTable = styled.table`
 
   width: 100%;
 
-  margin-left: 16px;
+  margin-top: 30px;
   margin-bottom: 20px;
 
   background: rgb(243 225 8 / 52%);
